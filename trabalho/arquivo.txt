@@ -1,0 +1,6 @@
+Ana	2	CC
+	1 
+Juliana Pirovani	1	CC
+	3 2 
+Maria	3	SI
+	1 
